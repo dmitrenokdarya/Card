@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Card/static/css/main.24f8bd5c.css",
+    "main.js": "/Card/static/js/main.4ce076bb.js",
+    "static/js/453.a35ed277.chunk.js": "/Card/static/js/453.a35ed277.chunk.js",
+    "static/media/desert.jpg": "/Card/static/media/desert.4c2c0c922311270cffaf.jpg",
+    "index.html": "/Card/index.html",
+    "main.24f8bd5c.css.map": "/Card/static/css/main.24f8bd5c.css.map",
+    "main.4ce076bb.js.map": "/Card/static/js/main.4ce076bb.js.map",
+    "453.a35ed277.chunk.js.map": "/Card/static/js/453.a35ed277.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24f8bd5c.css",
+    "static/js/main.4ce076bb.js"
+  ]
+}
